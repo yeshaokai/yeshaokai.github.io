@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Shaokai Ye"
+title: "Shaokai Ye (叶绍凯）"
 permalink: /cv/
 author_profile: true
 redirect_from:
