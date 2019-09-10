@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Robustness vs Model Compression, or Both?"
 collection: publications
-permalink: /publication/robust_pruning
+permalink: /publication/robust-pruning
 excerpt: "<img src='/images/robust_pruning.png' style='max-height:150px;'>"
 date: 2018-10-17
 venue:  "ICCV 2019"
