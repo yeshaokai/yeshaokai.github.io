@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in Mathis Lab at EPFL, under the supervision of professor Mackenzie Mathis. My research interest is to bridge neurosience and AI. In the AI side, I am building more generalizable animal pose estimator that allows across species, across datasets inference. While such a task acts as a good playground to study deep nets' generalization and adaptivitiy, it also helps to provide better tools for neuroscientists to study animals' behavior. At the same time, I also work on using realistic musculoskeletal model and neural networks to reverse engineer the brain of laboratory mice. 
+I am a second-year PhD student in [Mathis Lab](http://www.mackenziemathislab.org/) at EPFL, under the supervision of professor Mackenzie Mathis. My research interest is to bridge neurosience and AI. In the AI side, I am building more [generalizable animal pose estimator](https://arxiv.org/abs/2203.07436) that allows across species, across datasets inference. While such a task acts as a good playground to study deep nets' generalization and adaptivitiy, it also helps to provide better tools for neuroscientists to study animals' behavior. At the same time, I also work on using realistic musculoskeletal model and neural networks to reverse engineer the brain of laboratory mice. 
 
 News:
 
-* [Mar 2022] our paper about multi animal pose estimation and tracking was accepted by [Nature Methods](https://www.nature.com/articles/s41592-022-01443-0).
+* [Mar 2022] our [paper](https://www.nature.com/articles/s41592-022-01443-0) about multi animal pose estimation and tracking was accepted by Nature Methods.
 
 * [Mar 2022] our paper about building more robust vision transformer was accpted by CVPR 2022.
 
