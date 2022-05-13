@@ -12,7 +12,7 @@ I am a second year PhD student in Mathis Lab at EPFL, under the supervision of p
 
 News:
 
-* [Mar 2022] our paper about multi animal pose estimation and tracking was accepted by [Nature Methods](https://www.nature.com/articles/s41592-022-01443-0)
+* [Mar 2022] our paper about multi animal pose estimation and tracking was accepted by [Nature Methods](https://www.nature.com/articles/s41592-022-01443-0).
 
 * [Mar 2022] our paper about building more robust vision transformer was accpted by CVPR 2022.
 
@@ -25,14 +25,14 @@ News:
 
 Work experience:
 
-* I worked as a senior algorithm engineer at Alibaba Inc.
+* I worked as a senior algorithm engineer at Alibaba Group.
 
-* I worked as a researcher at IIISCT
+* I worked as a researcher at IIISCT.
 
 
 Education:
 
-* I am currently a PhD student in EPFL. My PhD advisor is [Prof. Mackenzie Mathis](https://en.wikipedia.org/wiki/Mackenzie_Weygandt_Mathis)
+* I am currently a PhD student in [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne). My PhD advisor is [Prof. Mackenzie Mathis](https://en.wikipedia.org/wiki/Mackenzie_Weygandt_Mathis).
 
 * I received my M.S. degree in Computer Engineering at [Syracuse University](https://www.syracuse.edu/). My master academic advisor is [Prof. Yanzhi Wang](http://www.ece.neu.edu/people/wang-yanzhi).
 * I received my B.S. degree in Computer Engineering at [Saint Louis University](https://www.slu.edu/)
