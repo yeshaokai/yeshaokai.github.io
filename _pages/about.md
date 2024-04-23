@@ -8,31 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in [Mathis Lab](http://www.mackenziemathislab.org/) at EPFL, under the supervision of professor Mackenzie Mathis. My research interest is to bridge neurosience and AI. In the AI side, I am building more [generalizable animal pose estimator](https://arxiv.org/abs/2203.07436) that allows across species, across datasets inference. While such a task acts as a good playground to study deep nets' generalization and adaptivitiy, it also helps to provide better tools for neuroscientists to study animals' behavior. At the same time, I also work on using realistic musculoskeletal model and neural networks to reverse engineer the brain of laboratory mice. 
+I am currently a 4th-year PhD student at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org/) at EPFL, working under the supervision of Professor Mackenzie Mathis. My primary research focus is achieving machine science through the integration of Large Language Models (LLMs) and foundation models. My key projects during my PhD include developing the "SuperAnimal" models for foundational animal pose estimation and "AmadeusGPT," a natural language interface for behavior analysis. These tools form an interface for LLMs to study animal behaviors.
 
-News:
+My academic contributions span the domains of computer vision foundation models, LLM-based systems, the robustness of neural networks, and efficient neural network. My work has been recognized at conferences such as ICCV, ECCV, CVPR, ASPLOS, and DAC, and in journals like Nature Methods, Nature Communications, and TNNLs, accumulating over 2000 citations as of 2024. Additionally, I have served as a reviewer for ECCV and Science.
 
-* [Mar 2022] our [paper](https://www.nature.com/articles/s41592-022-01443-0) about multi animal pose estimation and tracking was accepted by Nature Methods.
+Before I started PhD, I gained substantial industry experience as a senior algorithm engineer at Alibaba Group and as a researcher at the Institute for interdisciplinary (IIISCT) in Xi'an and Beijing. Earlier, I worked as a software engineer at Geonumerical Solutions.
 
-* [Mar 2022] our paper about building more robust vision transformer was accpted by CVPR 2022.
+## News
 
-* [Mar 2021] 2 papers about adversarial vulnerability of neural networks were accpeted by CVPR 2021.
+### Latest Updates
 
-* [Dec 2021] I passed my candidacy exam. 
+#### [April 2024]
+-  My first-author paper, [SuperAnimal models pretrained for plug-and-play analysis of animal behavior](https://arxiv.org/abs/2203.07436) has been accepted by Nature Communications.
+-  My co-authored paper, [Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10055085/) has been accepted by Nature Methods.
 
-* [Dec 2020] I moved to Geneva and joined Mathis Lab as a PhD student.
+#### [October 2023]
+-  My first-author paper, [AmadeusGPT: a natural language interface for interactive animal behavioral analysis](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1456560769bbc38e4f8c5055048ea712-Abstract-Conference.html) has been accepted by NeurIPS 2023.
 
+#### [March 2022]
+-  Co-authored paper [Multi-animal pose estimation, identification and tracking with DeepLabCut](https://www.nature.com/articles/s41592-022-01443-0) was accepted by Nature Methods.
+-  Co-authored paper on building more robust vision transformers was accepted by CVPR 2022.
 
-Work experience:
+#### [March 2021]
+-  Two co-authored papers on the adversarial vulnerability of neural networks, accepted by CVPR 2021.
 
-* I worked as a senior algorithm engineer at Alibaba Group.
+## Education
 
-* I worked as a researcher at IIISCT.
-
-
-Education:
-
-* I am currently a PhD student in [EPFL](https://en.wikipedia.org/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne). My PhD advisor is [Prof. Mackenzie Mathis](https://en.wikipedia.org/wiki/Mackenzie_Weygandt_Mathis).
-
-* I received my M.S. degree in Computer Engineering at [Syracuse University](https://www.syracuse.edu/). My master academic advisor is [Prof. Yanzhi Wang](http://www.ece.neu.edu/people/wang-yanzhi).
-* I received my B.S. degree in Computer Engineering at [Saint Louis University](https://www.slu.edu/)
+- **M.S. in Computer Engineering**, Syracuse University
+  - Academic Advisor: [Prof. Yanzhi Wang](https://coe.northeastern.edu/people/wang-yanzhi/)
+- **B.S. in Computer Engineering**, Saint Louis University
