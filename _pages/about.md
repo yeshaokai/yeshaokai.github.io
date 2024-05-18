@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a 4th-year PhD student at the [Mathis Laboratory of Adaptive Intelligence](http://www.mackenziemathislab.org/) at EPFL, working under the supervision of Professor Mackenzie Mathis. My primary research focus is achieving machine science through the integration of Large Language Models (LLMs) and foundation models. My key projects during my PhD include developing the "SuperAnimal" models for foundational animal pose estimation and "AmadeusGPT," a natural language interface for behavior analysis. These tools form an interface for LLMs to study animal behaviors.
 
-My academic contributions span the domains of computer vision foundation models, LLM-based systems, the robustness of neural networks, and efficient neural network. My work has been recognized at conferences such as ICCV, ECCV, CVPR, ASPLOS, and DAC, and in journals like Nature Methods, Nature Communications, and TNNLs, accumulating over 2000 citations as of 2024. Additionally, I have served as a reviewer for ECCV and Science.
+My academic contributions span the domains of computer vision foundation models, LLM-based systems, the robustness of neural networks, and efficient neural network. My work has been recognized at conferences such as ICCV, NeurIPS ECCV, CVPR, ASPLOS, and DAC, and in journals like Nature Methods, Nature Communications, and TNNLs, accumulating over 2000 citations as of 2024. Additionally, I have served as a reviewer for ECCV, Nature Methods and Science.
 
 Before I started PhD, I gained substantial industry experience as a senior algorithm engineer at Alibaba Group and as a researcher at the Institute for interdisciplinary (IIISCT) in Xi'an and Beijing. Earlier, I worked as a software engineer at Geonumerical Solutions.
 
